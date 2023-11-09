@@ -2,7 +2,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter_background_service/flutter_background_service.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'new.dart';
+import 'background_task_file.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
